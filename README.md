@@ -23,7 +23,7 @@
 <p>
 	<div align="center">
 		<a href="https://github.com/rodriguez-moon"> 
-      <img src="https://komarev.com/ghpvc/?username=rodriguez-moon&label=Profile%20views&color=f7a8b8">
+      <img src="https://komarev.com/ghpvc/?username=rodriguez-moon&label=Profile%20Views&color=f7a8b8">
       <img src="https://img.shields.io/github/followers/rodriguez-moon?label=Follow&style=social"> 
     </a>
 	</div>
