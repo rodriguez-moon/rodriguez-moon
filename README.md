@@ -33,8 +33,6 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px> 
 </h1>
 
-<img width="27%" align="right" src="https://hackernoon.com/images/f2px36fy.gif">
-
 - ⭐ Hi! My name is Rodriguez Moon.
 
 - 💻 I'm a high school student interested in programming.
