@@ -35,7 +35,9 @@
 
 - ⭐ Hi! My name is Rodriguez Moon.
 
-- 💻 I'm a high school student interested in programming.
+- 💻 I'm a high school student with a passion for programming and development.
+
+- 🌐 Check out [my website](https://rodriguez-moon.github.io)!
 
 - :smile: Thank You for taking the time to view my GitHub profile!
 
