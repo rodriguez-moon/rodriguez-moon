@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [a text encoding GUI](https://github.com/rodriguez-moon/encoding-tool-gui)
 
-- 🌱 I’m currently learning **Javascript and C++**
+- 🌱 I’m currently learning **Python, Javascript, and C++**
 
 - 👯 I’m looking to collaborate on **future projects!**
 
-- 📫 You can reach me at **[rodriguez.moon@pm.me](mailto:rodriguez.moon@pm.me)**
+- 📫 You can reach me at <code>&#114;&#111;&#100;&#114;&#105;&#103;&#117;<span style="display:none">&#101;&#122;&#91;&#100;&#111;&#116;&#93;&#109;&#111;&#111;&#110;&#91;<span style="display:none">&#97;&#116;&#93;&#112;&#109;&#91;<span style="display:none">&#100;&#111;&#116;&#93;&#109;&#101;</code>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
